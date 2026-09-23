@@ -1,0 +1,15 @@
+{
+  "tasks": [
+    {
+      "authType": 1,
+      "authId": 101,
+      "productId": "749000000001",
+      "productTitle": "Blue shirt",
+      "videoTitle": "New arrival #fashion",
+      "videoSource": 1,
+      "fileId": 2001001,
+      "precheck": 1,
+      "remark": "example-replace-with-your-own-values"
+    }
+  ]
+}
